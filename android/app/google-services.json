@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433246726603",
+    "project_id": "singularity-a4986",
+    "storage_bucket": "singularity-a4986.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433246726603:android:28c6e6409d16b85111ee4e",
+        "android_client_info": {
+          "package_name": "com.example.animelib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuaX_Q4kYRzbmktxPxq_RNP0SJw80Al-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
